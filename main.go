@@ -130,7 +130,7 @@ func main() {
 
 	err = dg.Open()
 	if err != nil {
-		fmt.Println("Error al abrir la conexión:", err)
+		fmt.Println("Error al abrir la conexión xx:", err)
 		return
 	}
 	fmt.Println("Bot ON¡!")
